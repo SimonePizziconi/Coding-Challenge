@@ -1,0 +1,77 @@
+ body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+  }
+
+#Conteiner {
+    width: 1000px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.7); 
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+img {
+    width: 200px;
+    margin-top: 60px;
+  }
+
+h1 header{
+    color: rgb(42, 255, 42);
+    margin-top: 5px;
+}
+
+div nav{
+    background-color: rgb(42, 255, 42);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.corpo {
+   text-align: left;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+h3 {
+   display: inline-block;
+   margin-bottom: 0px;
+}
+
+.corpo span {
+  font-size: 12px;
+}
+
+.Loading {
+   background-color:rgb(255, 167, 84);
+   width: 180px;
+   height: 20px;
+   border-radius: 5px;
+}
+
+.Loading2 {
+   background-color: rgb(23, 148, 23);
+   width: 350px;
+   height: 20px;
+   border-radius: 5px;
+}
+
+.Loading3 {
+   background-color: rgb(226, 57, 57);
+   width: 100px;
+   height: 20px;
+   border-radius: 5px
+}
+
+.via:before {
+  content: "\21A6";
+}
+
+
+
